@@ -1,5 +1,3 @@
-enum AccountType {SAVING, INVESTMENT}
-
 public  class Account {
 
     private String name;
